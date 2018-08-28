@@ -1,4 +1,4 @@
-BSD 3-Clause License
+# BSD 3-Clause License
 
 Copyright (c) 2018, Qub³d Engine Group
 All rights reserved.
@@ -27,3 +27,9 @@ SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
 CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
 OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+# OTHER:
+
+The Qub³d Logo is Copyright (c) 2018 Qub³d Engine Group. All Rights Reserved.
+
+All other non-code content is licensed under [Creative Commons Attribution ShareAlike 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
