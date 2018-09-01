@@ -1,6 +1,6 @@
 # Project
 
-This repository is for the Third-Party Dependencies of the Qub³d Engine Group
+This repository is for the Development Documentation for the Qub³d Engine Group.
 
 ## Authors
 
